@@ -328,9 +328,7 @@ Jardim das Acácias
 
 ## 10. Vídeo de apresentação
 
-🔗 **Link do vídeo (YouTube, não listado):** https://youtu.be/n-YXIlLqrBo
-
----
+🔗 **Link do vídeo (YouTube, não listado):** https://youtu.be/VSKQzjllvxs
 
 ## 11. Conclusões, limitações e aprendizados
 
