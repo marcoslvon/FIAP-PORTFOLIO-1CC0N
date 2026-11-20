@@ -1,0 +1,17 @@
+id;categoria;descricao;local;dia_abertura;status;dia_conclusao
+OC-001;iluminacao;Poste apagado em frente ao coreto;Praça Central;2;concluida;9
+OC-002;limpeza;Acúmulo de lixo na calçada;Rua das Palmeiras;3;aberta;
+OC-003;acessibilidade;Rampa de acesso danificada;Posto de Saúde;3;em_analise;
+OC-004;conservacao;Banco de madeira quebrado;Parque do Bairro;5;aberta;
+OC-005;iluminacao;Lâmpadas piscando durante a noite;Avenida Principal;6;em_analise;
+OC-006;limpeza;Bueiro entupido com folhas;Rua das Oliveiras;7;concluida;12
+OC-007;acessibilidade;Ponto de ônibus sem piso tátil;Terminal de Ônibus;8;aberta;
+OC-008;conservacao;Pintura da quadra desgastada;Quadra Esportiva;10;aberta;
+OC-009;iluminacao;Refletor da quadra queimado;Quadra Esportiva;11;em_analise;
+OC-010;limpeza;Entulho acumulado em terreno baldio;Rua das Palmeiras;12;aberta;
+OC-011;acessibilidade;Calçada irregular dificulta cadeirante;Escola Municipal;14;concluida;20
+OC-012;conservacao;Playground com peças soltas;Parque do Bairro;15;em_analise;
+OC-013;iluminacao;Poste inclinado após chuva forte;Avenida Principal;16;aberta;
+OC-014;limpeza;Lixeira pública danificada;Praça Central;18;concluida;23
+OC-015;;Buraco na via sem categoria informada;Rua das Oliveiras;19;aberta;
+OC-016;conservacao;Muro do parque pichado;Parque do Bairro;20;finalizada;
